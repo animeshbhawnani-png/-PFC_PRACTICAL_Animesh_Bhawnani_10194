@@ -23,6 +23,7 @@ int main() {
     }
     return 0;
 }
+// output :
 // Enter ATM PIN: 1111
 // Wrong PIN. Attempts left: 2
 // Enter ATM PIN: 2351
