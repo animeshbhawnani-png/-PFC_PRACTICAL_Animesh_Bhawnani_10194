@@ -8,7 +8,6 @@ void printTriangle(int n) {
         printf("\n");
     }
 }
-
 int main() {
     // Name : Animesh Bhawnani
     // ERP : 10194

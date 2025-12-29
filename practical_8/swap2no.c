@@ -5,7 +5,6 @@ void swap(int *a, int *b) {
     *a = *b;
     *b = temp;
 }
-
 int main() {
     // Name : Animesh Bhawnani
     // ERP : 10194

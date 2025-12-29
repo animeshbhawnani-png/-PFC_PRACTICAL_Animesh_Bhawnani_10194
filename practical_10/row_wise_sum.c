@@ -1,5 +1,7 @@
 #include <stdio.h>
 int main() {
+    // Name : Animesh Bhawnani
+    // ERP : 10194
     int rows, cols, i, j;
     printf("Enter number of rows and columns: ");
     scanf("%d %d", &rows, &cols);

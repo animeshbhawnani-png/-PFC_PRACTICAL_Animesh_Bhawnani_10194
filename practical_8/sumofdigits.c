@@ -7,7 +7,6 @@ int sumOfDigits(int n) {
     }
     return sum;
 }
-
 int main() {
     // Name : Animesh Bhawnani
     // ERP : 10194

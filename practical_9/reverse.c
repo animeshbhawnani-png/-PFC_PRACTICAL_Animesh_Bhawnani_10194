@@ -1,6 +1,7 @@
 #include <stdio.h>
-
 int main() {
+    // Name : Animesh Bhawnani
+    // ERP : 10194
     int n, i;
     printf("Enter number of elements: ");
     scanf("%d", &n);
@@ -21,3 +22,10 @@ int main() {
     }
     return 0;
 }
+
+// Output:
+// Enter number of elements: 5
+// Enter array elements:
+// 1 2 3 4 5
+// Reversed array:
+// 5 4 3 2 1

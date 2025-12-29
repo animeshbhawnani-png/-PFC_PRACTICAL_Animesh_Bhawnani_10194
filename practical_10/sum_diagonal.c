@@ -1,5 +1,7 @@
 #include <stdio.h>
 int main() {
+    // Name : Animesh Bhawnani
+    // ERP : 10194
     int n, i, j, sum = 0;
     printf("Enter order of square matrix: ");
     scanf("%d", &n);
@@ -17,3 +19,10 @@ int main() {
     printf("Sum of diagonal elements = %d", sum);
     return 0;
 }
+// Output:
+// Enter order of square matrix: 3
+// Enter matrix elements:
+// 1 2 3
+// 4 5 6
+// 7 8 9
+// Sum of diagonal elements = 15

@@ -1,6 +1,7 @@
 #include <stdio.h>
-
 int main() {
+    // Name : Animesh Bhawnani
+    // ERP : 10194
     int n, i;
     printf("Enter number of elements: ");
     scanf("%d", &n);
@@ -23,3 +24,9 @@ int main() {
     printf("Minimum element = %d\n", min);
     return 0;
 }
+// Output:
+// Enter number of elements: 6
+// Enter array elements:
+// 3 5 1 8 2 7
+// Maximum element = 8
+// Minimum element = 1
